@@ -1,5 +1,5 @@
-<a href="https://cleonreiina.github.io/logo.anime/download (6).jpg">
-    <img src="https://cleonreiina.github.io/logo.anime/download (6).jpg" width="100%" alt="Banner"/>
+<a href="https://cleonreiina.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg">
+    <img src="https://cleonreiina.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg" width="100%" alt="Banner"/>
   </a>
 </div>
 
