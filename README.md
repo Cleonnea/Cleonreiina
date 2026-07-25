@@ -1,18 +1,3 @@
-<div align="center">
-  <a href="https://postimg.cc/pytCmbKy">
-    <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner"/>
-  </a>
-</div>
-
-<!-- 1. Banner Anime GIF -->
-<img src=".github/assets/ken.gif" alt="Profile Banner">
-
-<!-- 2. Gambar Karakter Anime (Ken Kaneki) -->
-<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
-
-<!-- 3. Visitor Counter (Tema Booru / Anime) -->
-<img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-
 About Me:
 Programmer
 
