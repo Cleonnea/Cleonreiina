@@ -1,5 +1,5 @@
  <a href="https://cleonreiina.github.io/logo.anime/download (6).jpg">
-    <img src="https://cleonreiina.github.io/logo.anime/download (6).jpg" width="100%" alt="Banner"/>
+    <img src="https://cleonreiina.github.io/logo.anime/download (6).jpg" width="85%" alt="Banner"/>
   </a>
 </div>
 
