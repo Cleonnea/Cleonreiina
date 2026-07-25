@@ -1,3 +1,8 @@
+<a href="https://cleonreiina.github.io/logo.anime/download (6).jpg">
+    <img src="https://cleonreiina.github.io/logo.anime/download (6).jpg" width="100%" alt="Banner"/>
+  </a>
+</div>
+
 <br>
 
 <table>
@@ -25,13 +30,6 @@
     </td>
   </tr>
 </table>
-
-
-<a href="https://cleonreiina.github.io/logo.anime/download (6).jpg">
-    <img src="https://cleonreiina.github.io/logo.anime/download (6).jpg" width="100%" alt="Banner"/>
-  </a>
-</div>
-
 
 <table align="center">
   <tr>
