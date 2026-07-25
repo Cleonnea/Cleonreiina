@@ -19,9 +19,11 @@
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>React Developer & AI/DS Undergrad</b> (Class of 2026)<br><br>
-      I am based in Trivandrum and deeply passionate about crafting minimalist, high-performance web applications and building efficient automated workflows.<br><br>
-      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
+      <b>React Developer & Student
+
+Driven by a passion for minimalist design and high-performance web engineering, I specialize in building scalable applications and efficient automated workflows.
+
+Currently, I am leading the development of FileGhost—a privacy-focused file-sharing platform—and Updrop, an advanced automation utility. My core tech stack includes React, Tailwind CSS, local AI implementation, and pipeline orchestration using n8n to streamline complex processes.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://cleonreiina.github.io/logo5/download (2).jpg">
