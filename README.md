@@ -3,10 +3,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src=".github/assets/ken.gif" alt="Profile Banner">
-</div>
-
 <br>
 
 <table>
@@ -121,4 +117,8 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
   <a href="https://cleonreiina.github.io/logo/wallpaper(2).jpg">
     <img src="https://cleonreiina.github.io/logo/wallpaper(2).jpg" width="100%" alt="Banner"/>
   </a>
+</div>
+
+<div align="center">
+  <img src=".github/assets/ken.gif" alt="Profile Banner">
 </div>
