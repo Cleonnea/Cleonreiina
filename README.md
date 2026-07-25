@@ -3,6 +3,6 @@
 
 <div align="center">
   <a href="https://cleonreiina.github.io/logo/wallpaper(2).jpg">
-    <img src="https://cleonreiina.github.io/logo/wallpaper(2).jpg" width="100%" alt="Banner"/>
+    <img src="https://cleonreiina.github.io/logo/wallpaper(2).jpg" width="70%" alt="Banner"/>
   </a>
 </div>
