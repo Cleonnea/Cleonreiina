@@ -1,3 +1,31 @@
+<br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <!-- Bagian media sosial dikosongkan sesuai permintaan -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="middle">
+      <h3>Hey there! I’m Karthick 👋</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="70%">
+      <br>
+      <b>React Developer & AI/DS Undergrad</b> (Class of 2026)<br><br>
+      I am based in Trivandrum and deeply passionate about crafting minimalist, high-performance web applications and building efficient automated workflows.<br><br>
+      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://postimg.cc/NyFKLkth">
+        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <a href="https://cleonreiina.github.io/logo.anime/download (6).jpg">
     <img src="https://cleonreiina.github.io/logo.anime/download (6).jpg" width="100%" alt="Banner"/>
