@@ -2,5 +2,5 @@
 <br clear="both" />
 
 <div align="center">
-  <img src="https://cleonreiina.github.io/logo.sakura/download-2.jpg" width="100%" alt="Banner"/>
+  <img src="repo:Cleonreiina@272246922/logo.sakura@1312157736" width="100%" alt="Banner"/>
 </div>
