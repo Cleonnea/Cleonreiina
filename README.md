@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="wallpaper.jpg">
-    <img src="wallpaper.jpg" width="100%" alt="Banner"/>
+  <a href="https://cleonreiina.github.io/logo/wallpaper.jpg">
+    <img src="https://cleonreiina.github.io/logo/wallpaper.jpg" width="100%" alt="Banner"/>
   </a>
 </div>
 
