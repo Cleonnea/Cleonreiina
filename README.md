@@ -1,5 +1,5 @@
- <a href="https://cleonreiina.github.io/logo/download (3).jpg">
-    <img src="https://cleonreiina.github.io/logo/download (3).jpg" width="100%" alt="Banner"/>
+ <a href="https://cleonreiina.github.io/logo.makima/download (3).jpg">
+    <img src="https://cleonreiina.github.io/logo.makima/download (3).jpg" width="100%" alt="Banner"/>
   </a>
 </div>
 
