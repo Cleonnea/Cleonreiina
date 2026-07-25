@@ -2,7 +2,5 @@
 <br clear="both" />
 
 <div align="center">
-  <a href="download (2).jpg">
-    <img src="download (2).jpg" width="100%" alt="Banner"/>
-  </a>
+  <img src="download-2.jpg" width="100%" alt="Banner"/>
 </div>
