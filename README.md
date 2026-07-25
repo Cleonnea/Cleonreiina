@@ -3,6 +3,6 @@
 
 <div align="center">
   <a href="download (2).jpg">
-    <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner"/>
+    <img src="download (2).jpg" width="100%" alt="Banner"/>
   </a>
 </div>
