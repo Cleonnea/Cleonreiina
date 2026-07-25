@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="middle">
-      <h3> there! I’m Karthick </h3>
+      <h3> I’m Karthick </h3>
     </td>
   </tr>
   <tr>
