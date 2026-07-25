@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="middle">
-      <h3>Hey there! I’m Karthick 👋</h3>
+      <h3> there! I’m Karthick </h3>
     </td>
   </tr>
   <tr>
@@ -23,7 +23,7 @@
 
 Driven by a passion for minimalist design and high-performance web engineering, I specialize in building scalable applications and efficient automated workflows.
 
-Currently, I am leading the development of FileGhosta privacy focused file sharing platform—and Updrop, an advanced automation utility. My core tech stack includes React, Tailwind CSS, local AI implementation, and pipeline orchestration using n8n to streamline complex processes.<br><br>
+Currently, I am leading the development of FileGhosta privacy focused file sharing platform and Updrop, an advanced automation utility. My core tech stack includes React, Tailwind CSS, local AI implementation, and pipeline orchestration using n8n to streamline complex processes.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://cleonreiina.github.io/logo5/download (2).jpg">
