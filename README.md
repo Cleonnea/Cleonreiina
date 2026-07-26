@@ -1,5 +1,5 @@
-<a href="https://cleonreiina.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg">
-    <img src="https://cleonreiina.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg" width="100%" alt="Banner"/>
+<a href="https://Cleonnea.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg">
+    <img src="https://Cleonnea.github.io/logo.human/makima-chainsaw-man-4k-wallpaper-uhdpaper.com-756@5@m.jpg" width="100%" alt="Banner"/>
   </a>
 </div>
 
@@ -26,8 +26,8 @@ Driven by a passion for minimalist design and high-performance web engineering, 
 Currently, I am leading the development of FileGhosta privacy focused file sharing platform and Updrop, an advanced automation utility. My core tech stack includes React, Tailwind CSS, local AI implementation, and pipeline orchestration using n8n to streamline complex processes.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
-      <a href="https://cleonreiina.github.io/logo5/download (2).jpg">
-        <img src="https://cleonreiina.github.io/logo5/download (2).jpg" width="220" alt="About Me Portrait"/>
+      <a href="https://Cleonnea.github.io/logo5/download (2).jpg">
+        <img src="https://Cleonnea.github.io/logo5/download (2).jpg" width="220" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
@@ -114,8 +114,8 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
 <div align="center">
-  <a href="https://cleonreiina.github.io/logo/wallpaper(2).jpg">
-    <img src="https://cleonreiina.github.io/logo/wallpaper(2).jpg" width="100%" alt="Banner"/>
+  <a href="https://Cleonnea.github.io/logo/wallpaper(2).jpg">
+    <img src="https://Cleonnea.github.io/logo/wallpaper(2).jpg" width="100%" alt="Banner"/>
   </a>
 </div>
 
