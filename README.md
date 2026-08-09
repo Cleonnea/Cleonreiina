@@ -110,7 +110,6 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
 <br/>
 
 ---
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?usernameCleonnea&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
 <div align="center">
