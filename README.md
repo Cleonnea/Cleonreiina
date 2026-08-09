@@ -101,18 +101,21 @@ Currently, I am leading the development of FileGhosta privacy focused file shari
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
     </td> -->
+      
   </tr>
 </table>
 
 <br/>
 
 ---
-<img src="https://github-readme-activity-graph.vercel.app/graph?usernameCleonnea&theme=high-contrast&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleonnea&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
+
 <div align="center">
+
   <a href="https://Cleonnea.github.io/logo/wallpaper(2).jpg">
     <img src="https://Cleonnea.github.io/logo/wallpaper(2).jpg" width="100%" alt="Banner"/>
   </a>
